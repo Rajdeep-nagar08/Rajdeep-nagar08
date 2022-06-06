@@ -23,7 +23,9 @@
 
 
 - :telescope: <B>I'm currently studying B.Tech in CSE 💻 from NIT Patna;
+ 
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
+ 
 - 📫 How to reach me: rajdeepnagar08@gmail.com; </B>
 <br><br><br><br>
 
