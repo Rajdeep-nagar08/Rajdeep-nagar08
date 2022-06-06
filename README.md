@@ -4,17 +4,17 @@
 
 <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
 
- <a href="https://devfolio.co/@Rajdeep_Nagar">
+ <a href="https://dev.to/rajdeepnagar08">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rajdeep's Dev" width="26"/>
 </a>
 <a href="https://twitter.com/RajdeepNagar8">
-  <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rajdeep Nagar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rajdeep-nagar-0873a7206/">
   <img align="left" alt="Rajdeep's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_r.d08_/">
-  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rajdeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a><br><br>
 
 
@@ -44,6 +44,6 @@
 
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <img src="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rajdeep-nagar08&theme=react-dark" align="center" width=50% />
+   <img src="https://activity-graph.herokuapp.com/graph?username=Rajdeep-nagar08&theme=react-dark" align="center" width=50% />
 
 ---
