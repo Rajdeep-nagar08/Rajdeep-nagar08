@@ -28,7 +28,7 @@
 - 📫 How to reach me: rajdeepnagar08@gmail.com;
 <br><br><br><br>
 
-![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Blockchain%20Developert-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Solidity-%7C-yellowgreen) ![](https://img.shields.io/badge/Web3JS-%7C-orange) ![](https://img.shields.io/badge/JavaScript-%7C-blue)![](https://img.shields.io/badge/ReactJS-%7C-pink)<a href="https://github.com/Rajdeep-nagar08">
+![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)
   <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" />
 </a>
 
