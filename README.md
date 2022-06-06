@@ -28,7 +28,7 @@
 - 📫 How to reach me: rajdeepnagar08@gmail.com;
 <br><br><br><br>
 
-![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)
+![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Blockchain%20Developer-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/Solidity-%7C-orange) (https://img.shields.io/badge/Truffle-%7C-orange) ![](https://img.shields.io/badge/Web3JS-%7C-blue)![](https://img.shields.io/badge/JavaScript-%7C-pink)![](https://img.shields.io/badge/JavaScript-%7C-orange)
 </a>
 
 ---
