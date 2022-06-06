@@ -44,6 +44,6 @@
 
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <a><img src="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rajdeep-nagar08&theme=react-dark" /></a>
+   <img src="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rajdeep-nagar08&theme=react-dark" align="center" width=50% />
 
 ---
