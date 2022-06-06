@@ -22,9 +22,9 @@
 
 
 
-- :telescope: I'm currently studying B.Tech in CSE 💻 from NIT Patna;
+- :telescope: <B>I'm currently studying B.Tech in CSE 💻 from NIT Patna;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- 📫 How to reach me: rajdeepnagar08@gmail.com;
+- 📫 How to reach me: rajdeepnagar08@gmail.com; </B>
 <br><br><br><br>
 
 ![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Blockchain%20Developer-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Solidity-%7C-orange) ![](https://img.shields.io/badge/Truffle-%7C-blue) ![](https://img.shields.io/badge/Minting%20NFT's-%7C-green) ![](https://img.shields.io/badge/Web3JS-%7C-blue) ![](https://img.shields.io/badge/JavaScript-%7C-pink)
