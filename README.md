@@ -44,6 +44,6 @@
 
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitwarbhe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a><img src="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rajdeep-nagar08&theme=react-dark" /></a>
 
 ---
