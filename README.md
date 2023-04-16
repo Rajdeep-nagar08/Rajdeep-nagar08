@@ -29,7 +29,7 @@
 - 📫 How to reach me: rajdeepnagar08@gmail.com; </B>
 <br><br><br><br>
 
-![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Solidity-%7C-orange) ![](https://img.shields.io/badge/Javascript-%7C-green) ![](https://img.shields.io/badge/Strapi-%7C-blue) ![](https://img.shields.io/badge/Spring Boot-%7C-pink)
+![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Solidity-%7C-orange) ![](https://img.shields.io/badge/Javascript-%7C-green) ![](https://img.shields.io/badge/Strapi-%7C-blue) ![](https://img.shields.io/badge/Spring-Boot-%7C-pink)
 </a>
 
 ---
