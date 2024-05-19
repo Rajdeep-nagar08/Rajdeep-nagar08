@@ -26,7 +26,7 @@
  
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 
--  I am passionate about solving complex problems using innovative technologies and algorithms. I have developed multiple skills and competencies in machine learning, blockchain, and competitive programming, which I have applied in various projects and internships.
+-  I am passionate about solving complex problems using innovative technologies and algorithms.
  
 - 📫 How to reach me: nagarrajdeep08@gmail.com; </B>
 <br><br><br><br>
